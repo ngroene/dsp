@@ -57,7 +57,7 @@ In the Terminal:
 
 **A2.** Current version is Python 3.7.4
 
-Hoever, I am experiencing difficulties to open Python through a command line in Git Bash. (Working with Python within a Jypyter Notebook works, though.) The message I receive is ".../python3:Persmission denied". I would appreciate some guidance on Monday on how to fix this.
+However, I am experiencing difficulties to open Python through a command line in Git Bash. (Working with Python within a Jypyter Notebook works, though.) The message I receive is ".../python3:Persmission denied". I would appreciate some guidance on Monday on how to fix this.
 
  
 
