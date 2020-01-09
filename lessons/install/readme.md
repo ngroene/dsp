@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+**A1.** I installed Python 3 since this is the more recent version.
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,9 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+**A2.** Current version is Python 3.7.4
+
+Hoever, I am experiencing difficulties to open Python through a command line in Git Bash. (Working with Python within a Jypyter Notebook works, though.) The message I receive is ".../python3:Persmission denied". I would appreciate some guidance on Monday on how to fix this.
 
  
 
