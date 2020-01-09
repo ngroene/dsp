@@ -205,7 +205,7 @@ There's no need to keep two of the same file, so let's go ahead and delete the
 one we just renamed.
 
 ```bash
-rm NEW_FILE_NAME.txt
+rm mv data2.txt
 ls
 ```
 
